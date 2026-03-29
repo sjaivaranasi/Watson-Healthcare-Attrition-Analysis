@@ -2,7 +2,7 @@
 
 An end-to-end data analysis project identifying the key drivers behind employee attrition at a healthcare organization — from data cleaning in Python, to SQL analysis across 16 business questions, to an interactive Tableau dashboard and executive presentation.
 
-**[View the Tableau Dashboard](https://public.tableau.com/views/WatsonHealthcareEmployeeAttritionTrends/AttritionDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** | **[Watch the Video Walkthrough](YOUR_LOOM_LINK_HERE)** | **[View the Presentation](presentation/Watson_Healthcare_Attrition_Presentation.pdf)**
+**[View the Tableau Dashboard](https://public.tableau.com/views/WatsonHealthcareEmployeeAttritionTrends/AttritionDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** |  | **[View the Presentation](presentation/Watson_Healthcare_Attrition_Presentation.pdf)**
 
 ---
 
